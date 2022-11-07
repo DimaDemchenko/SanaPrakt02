@@ -3,5 +3,5 @@ Console.WriteLine("123");
 Console.WriteLine("$$$");
 Console.WriteLine("SoMe TeXt");
 Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
+Console.WriteLine("TextChanged");
+Console.WriteLine("ChangeText");
